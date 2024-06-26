@@ -1,10 +1,10 @@
-1w Nan Bao Park - Confucius Temple(South Taipin Rd)
-2w Zhong Hua Men Metro Station - Mo Xiang Rd Hub
-3w Sui Jia Cang - Sui Jia Cang
-4w Yin Cheng Dong Yuan Residential Community - West Xin Jie Kou
-5w South Nan Wan Ying - East Xin Jie Kou
-6w Wan Shou Hub - Qing Liang Shan Park
-7w Rui Jin Rd - Yi Yue St
-8w Yan Zi Ji Park - Fu Zuo Rd
-9w Ning Gong Flat - Presidential Palace
-10w Jiang Bian Rd Hub - Mo Xiang Rd Hub
+1 Nan Bao Park - Confucius Temple(South Taipin Rd)
+2 Zhong Hua Men Metro Station - Mo Xiang Rd Hub
+3 Sui Jia Cang - Sui Jia Cang
+4 Yin Cheng Dong Yuan Residential Community - West Xin Jie Kou
+5 South Nan Wan Ying - East Xin Jie Kou
+6 Wan Shou Hub - Qing Liang Shan Park
+7 Rui Jin Rd - Yi Yue St
+8 Yan Zi Ji Park - Fu Zuo Rd
+9 Ning Gong Flat - Presidential Palace
+10 Jiang Bian Rd Hub - Mo Xiang Rd Hub
